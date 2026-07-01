@@ -1,0 +1,9 @@
+/* TEAM */
+UI/UX Designer & Senior React Developer: Antigravity AI
+SEO Expert & CRO Specialist: Antigravity AI
+
+/* SITE */
+Last update: 2026/07/01
+Language: English
+Standards: HTML5, CSS3, React, Tailwind CSS v4, ES6
+Components: Lucide Icons, Framer Motion, SwiperJS

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
+  <url><loc>https://dentaland.in/</loc><priority>1.00</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/about</loc><priority>0.80</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/doctors</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/gallery</loc><priority>0.70</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/branches</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/testimonials</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/contact</loc><priority>0.80</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/book-appointment</loc><priority>0.95</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/blog</loc><priority>0.85</priority><changefreq>weekly</changefreq></url>
+
+  <!-- Doctor Subpages -->
+  <url><loc>https://dentaland.in/doctors/dr-pankaj-shelke</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/doctors/dr-ghevaram-prajapati</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/doctors/dr-rutuja-gawade</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/doctors/dr-nikita-gupta</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Treatment Subpages -->
+  <url><loc>https://dentaland.in/treatments/root-canal</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments/dental-implants</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments/braces</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments/smile-makeover</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments/veneers</loc><priority>0.80</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/treatments/teeth-whitening</loc><priority>0.80</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Branch Subpages -->
+  <url><loc>https://dentaland.in/branches/pimpri</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/branches/kalewadi</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/branches/chikhali</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://dentaland.in/branches/akurdi</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Local SEO Dentist Landing Pages -->
+  <url><loc>https://dentaland.in/dentist-in-pimpri</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/dentist-in-kalewadi</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/dentist-in-chikhali</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/dentist-in-akurdi</loc><priority>0.90</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/dentist-near-chinchwad</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/dentist-near-nigdi</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/best-dentist-in-pcmc</loc><priority>0.85</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/emergency-dentist-pimpri</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+
+  <!-- Local SEO Treatment Landing Pages -->
+  <url><loc>https://dentaland.in/dental-implant-in-pimpri</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/root-canal-treatment-in-pimpri</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/braces-treatment-in-pimpri</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+
+  <!-- Blogs -->
+  <url><loc>https://dentaland.in/blog/root-canal-vs-extraction</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/blog/how-long-do-dental-implants-last</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://dentaland.in/blog/how-to-prevent-cavities</loc><priority>0.80</priority><changefreq>weekly</changefreq></url>
+</urlset>

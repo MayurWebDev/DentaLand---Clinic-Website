@@ -1,0 +1,5 @@
+Contact: mailto:security@dentaland.in
+Expires: 2027-07-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://dentaland.in/.well-known/security.txt
+Policy: https://dentaland.in/security-policy
