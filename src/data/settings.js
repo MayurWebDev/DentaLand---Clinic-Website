@@ -4,12 +4,12 @@ export const settings = {
   tagline: 'Creating Healthy & Confident Smiles',
   
   // Global Contact Info
-  phone: '9970133379',
-  phoneFormatted: '+91 99701 33379',
-  whatsapp: '9970133379',
+  phone: '9000000001',
+  phoneFormatted: '+91 90000 00001',
+  whatsapp: '9000000001',
   whatsappMessage: 'Hi DentaLand, I would like to book a dental appointment.',
   email: 'appointments@dentaland.in',
-  emergencyPhone: '9970133379',
+  emergencyPhone: '9000000001',
   
   // Working Hours (Global)
   workingHours: {
