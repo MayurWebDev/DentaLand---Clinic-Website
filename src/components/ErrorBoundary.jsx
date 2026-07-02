@@ -52,7 +52,7 @@ class ErrorBoundary extends Component {
               </button>
               
               <a
-                href="tel:+919970133379"
+                href="tel:+919000000001"
                 className={`${buttons.secondary} py-3 text-sm w-full flex items-center justify-center gap-1.5 cursor-pointer`}
               >
                 <Phone size={16} className="text-sky-600" />

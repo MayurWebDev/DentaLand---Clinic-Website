@@ -16,7 +16,7 @@ export const SchemaBuilder = {
       ],
       'contactPoint': {
         '@type': 'ContactPoint',
-        'telephone': '+91-9970133379',
+        'telephone': '+91-9000000001',
         'contactType': 'customer service',
         'areaServed': 'IN',
         'availableLanguage': ['en', 'hi', 'mr'],

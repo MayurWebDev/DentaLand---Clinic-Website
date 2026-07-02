@@ -17,7 +17,7 @@ export const faq = [
   {
     id: 4,
     question: 'Do you provide emergency dental care?',
-    answer: 'Yes, we provide same-day emergency dental appointments across all our branches in Pune (Pimpri, Kalewadi, Chikhali, Akurdi). If you are experiencing severe tooth pain, a dental abscess, bleeding, or a broken tooth, you can call our emergency line directly at 9970133379 for immediate attention.',
+    answer: 'Yes, we provide same-day emergency dental appointments across all our branches in Pune (Pimpri, Kalewadi, Chikhali, Akurdi). If you are experiencing severe tooth pain, a dental abscess, bleeding, or a broken tooth, you can call our emergency line directly at 9000000001 for immediate attention.',
   },
   {
     id: 5,

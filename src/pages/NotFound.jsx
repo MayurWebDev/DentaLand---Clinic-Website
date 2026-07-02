@@ -24,7 +24,7 @@ const NotFound = () => {
             Back to Home
           </Link>
           <a
-            href="tel:+919970133379"
+            href="tel:+919000000001"
             className={`${buttons.secondary} flex items-center justify-center gap-1.5 text-sm`}
           >
             <Phone size={16} className="text-sky-600" />
